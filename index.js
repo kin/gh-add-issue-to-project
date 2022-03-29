@@ -4,14 +4,13 @@ const { graphql } = require("@octokit/graphql");
 
 const graphqlWithAuth = graphql.defaults({
   headers: {
-    authorization: core.getInput('access-token'),
+    authorization: core.getInput("access-token"),
   },
 });
 
-const { issues } = await graphqlWithAuth(
-  `
+const issuesQuery = `query issues($projectId: ID!)
     {
-      node(id: "PN_kwDOAVkpBs4ABEih") {
+      node(id: $projectId) {
         ... on ProjectNext {
           items(first: 10, after: null) {
             pageInfo {
@@ -42,8 +41,13 @@ const { issues } = await graphqlWithAuth(
         }
       }
     }
-  `
-);
+  `;
+
+async function getIssues(projectId) {
+  return graphqlWithAuth(issuesQuery, {
+    projectId: core.getInput("project-to-add-to"),
+  });
+}
 
 const addIssueToProject = await graphqlWithAuth(
   `mutation {
@@ -54,12 +58,13 @@ const addIssueToProject = await graphqlWithAuth(
     }
   }
 `
-)
+);
+
 try {
   const run = async () => {
     try {
-      console.log(core.getInput('project-to-add-to'))
-      console.log(issues)
+      console.log(core.getInput("project-to-add-to"));
+      console.log(getIssues());
     } catch (error) {
       core.info(error);
     }
@@ -68,4 +73,4 @@ try {
   run();
 } catch (error) {
   core.setFailed(error.message);
-};
+}
