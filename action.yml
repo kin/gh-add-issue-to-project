@@ -1,0 +1,15 @@
+name: Add Issue to Project
+description: Add an additional Project to an issue
+inputs:
+  access-token:
+    description: 'Token with permissions to access issue information in repo'
+    required: true
+  project-to-add-to:
+    description: 'ID for the project to add the issue to'
+    required: true
+runs:
+  using: "node12"
+  main: "index.js"
+branding:
+  icon: 'link'
+  color: 'green'
