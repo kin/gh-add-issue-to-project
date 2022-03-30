@@ -1,0 +1,374 @@
+{
+    "data": {
+      "node": {
+        "items": {
+          "pageInfo": {
+            "hasNextPage": false,
+            "endCursor": "Y3Vyc29yOnYyOpHOADGAHw=="
+          },
+          "nodes": [
+            {
+              "title": "Updates to the quote review page in funnel for HD3",
+              "content": {
+                "id": "I_kwDOBCvUzs5FpM0I",
+                "number": 23834,
+                "url": "https://github.com/kin/dot-com/issues/23834",
+                "projectCards": {
+                  "edges": [
+                    {
+                      "node": {
+                        "id": "PRC_lALOBCvUzs4ATuISzgS6ICg",
+                        "column": {
+                          "name": "Build (Complete)"
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Updates to property attribute tool tips in the funnel ",
+              "content": {
+                "id": "I_kwDOBCvUzs5FpQZ3",
+                "number": 23836,
+                "url": "https://github.com/kin/dot-com/issues/23836",
+                "projectCards": {
+                  "edges": [
+                    {
+                      "node": {
+                        "id": "PRC_lALOBCvUzs4ATuISzgS8elQ",
+                        "column": {
+                          "name": "Analyze"
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Updates to tool tips in the Kintranet",
+              "content": {
+                "id": "I_kwDOBCvUzs5Fw8KB",
+                "number": 23882,
+                "url": "https://github.com/kin/dot-com/issues/23882",
+                "projectCards": {
+                  "edges": [
+                    {
+                      "node": {
+                        "id": "PRC_lALOBCvUzs4ATuISzgS__n4",
+                        "column": {
+                          "name": "Analyze"
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Prevent user-input HTML tags from being inserted into the page that will be used to generate the PDF",
+              "content": {
+                "id": "I_kwDOBCvUzs5FZUPN",
+                "number": 23782,
+                "url": "https://github.com/kin/dot-com/issues/23782",
+                "projectCards": {
+                  "edges": [
+                    {
+                      "node": {
+                        "id": "PRC_lALOBCvUzs4ATuISzgS2WqQ",
+                        "column": {
+                          "name": "Build (Doing)"
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Regenerate policy packets and dec pages for Cov B and C impacted policies",
+              "content": {
+                "id": "I_kwDOBCvUzs5FpqPs",
+                "number": 23838,
+                "url": "https://github.com/kin/dot-com/issues/23838",
+                "projectCards": {
+                  "edges": [
+                    {
+                      "node": {
+                        "id": "PRC_lALOBCvUzs4ATuISzgS4MgA",
+                        "column": {
+                          "name": "Build (Doing)"
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Automation Specs for SC HD3 - Cancellations, Endorsements and Renewals",
+              "content": {
+                "id": "I_kwDOBCvUzs5FTpyB",
+                "number": 23736,
+                "url": "https://github.com/kin/dot-com/issues/23736",
+                "projectCards": {
+                  "edges": [
+                    {
+                      "node": {
+                        "id": "PRC_lALOBCvUzs4ATuISzgS4EWM",
+                        "column": {
+                          "name": "Review (Doing)"
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Fix renewal flag rules for SC, LA, FL",
+              "content": {
+                "id": "I_kwDOBCvUzs5FiyQ9",
+                "number": 23817,
+                "url": "https://github.com/kin/dot-com/issues/23817",
+                "projectCards": {
+                  "edges": [
+                    {
+                      "node": {
+                        "id": "PRC_lALOBCvUzs4ATuISzgS5woE",
+                        "column": {
+                          "name": "Build (Complete)"
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "title": "LA Rating Issue - Roof Type is rating as shingle instead of actual value of metal ",
+              "content": {
+                "id": "I_kwDOBCvUzs5EXkvA",
+                "number": 23532,
+                "url": "https://github.com/kin/dot-com/issues/23532",
+                "projectCards": {
+                  "edges": [
+                    {
+                      "node": {
+                        "id": "PRC_lALOBCvUzs4ATuISzgS5wlk",
+                        "column": {
+                          "name": "Done"
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Make remaining dynamic docs in Sheng live - Batch 2",
+              "content": {
+                "id": "I_kwDOBCvUzs5DE153",
+                "number": 23331,
+                "url": "https://github.com/kin/dot-com/issues/23331",
+                "projectCards": {
+                  "edges": [
+                    {
+                      "node": {
+                        "id": "PRC_lALOBCvUzs4ATuISzgSts74",
+                        "column": {
+                          "name": "Done"
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Build New Coverage Defaulting Mechanism",
+              "content": {
+                "id": "I_kwDOBCvUzs5CoRdK",
+                "number": 23200,
+                "url": "https://github.com/kin/dot-com/issues/23200",
+                "projectCards": {
+                  "edges": [
+                    {
+                      "node": {
+                        "id": "PRC_lALOBCvUzs4ATuISzgS0ZBg",
+                        "column": {
+                          "name": "Review (Complete)"
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Sanitize user input to prevent unsafe HTML from being rendered by Gotenberg.",
+              "content": {
+                "id": "I_kwDOBCvUzs5FU8Dq",
+                "number": 23757,
+                "url": "https://github.com/kin/dot-com/issues/23757",
+                "projectCards": {
+                  "edges": [
+                    {
+                      "node": {
+                        "id": "PRC_lALOBCvUzs4ATuISzgS2Wrc",
+                        "column": {
+                          "name": "Validate"
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "title": "SC/TX HD3 - RSPS Notice of Change in Policy Terms generation criteria",
+              "content": {
+                "id": "I_kwDOBCvUzs5COF6M",
+                "number": 23105,
+                "url": "https://github.com/kin/dot-com/issues/23105",
+                "projectCards": {
+                  "edges": [
+                    {
+                      "node": {
+                        "id": "PRC_lALOBCvUzs4ATuISzgSr67Q",
+                        "column": {
+                          "name": "Done"
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Sheng cutover to AWS - Test Plan ",
+              "content": {
+                "id": "I_kwDOBCvUzs5FikAe",
+                "number": 23814,
+                "url": "https://github.com/kin/dot-com/issues/23814",
+                "projectCards": {
+                  "edges": [
+                    {
+                      "node": {
+                        "id": "PRC_lALOBCvUzs4ATuISzgS2_hA",
+                        "column": {
+                          "name": "Done"
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Update chargeable claims window in rater for SC",
+              "content": {
+                "id": "I_kwDOBCvUzs5FU5rK",
+                "number": 23755,
+                "url": "https://github.com/kin/dot-com/issues/23755",
+                "projectCards": {
+                  "edges": [
+                    {
+                      "node": {
+                        "id": "PRC_lALOBCvUzs4ATuISzgS0QKA",
+                        "column": {
+                          "name": "Done"
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Maintenance for Dynamic Coverage Defaults ",
+              "content": {
+                "id": "I_kwDOBCvUzs5GJUN5",
+                "number": 23976,
+                "url": "https://github.com/kin/dot-com/issues/23976",
+                "projectCards": {
+                  "edges": [
+                    {
+                      "node": {
+                        "id": "PRC_lALOBCvUzs4ATuISzgS885w",
+                        "column": {
+                          "name": "Done"
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Update Year Built life cycle rule automation ",
+              "content": {
+                "id": "I_kwDOBCvUzs5D-ZnH",
+                "number": 23488,
+                "url": "https://github.com/kin/dot-com/issues/23488",
+                "projectCards": {
+                  "edges": [
+                    {
+                      "node": {
+                        "id": "PRC_lALOBCvUzs4ATuISzgS5vUk",
+                        "column": {
+                          "name": "Done"
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "title": "SC HD3 end-to-end testing",
+              "content": {
+                "id": "I_kwDOBCvUzs5D-Ka_",
+                "number": 23484,
+                "url": "https://github.com/kin/dot-com/issues/23484",
+                "projectCards": {
+                  "edges": [
+                    {
+                      "node": {
+                        "id": "PRC_lALOBCvUzs4ATuISzgSxMJE",
+                        "column": {
+                          "name": "Done"
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Continued: Regenerate FL DP3 policy packets with incorrect address on policy jacket",
+              "content": {
+                "id": "I_kwDOBCvUzs5Fqd-t",
+                "number": 23845,
+                "url": "https://github.com/kin/dot-com/issues/23845",
+                "projectCards": {
+                  "edges": [
+                    {
+                      "node": {
+                        "id": "PRC_lALOBCvUzs4ATuISzgS3H0o",
+                        "column": {
+                          "name": "Done"
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }

@@ -4,7 +4,7 @@ inputs:
   access-token:
     description: 'Token with permissions to access issue information in repo'
     required: true
-  project-to-add-to:
+  target-project:
     description: 'ID for the project to add the issue to'
     required: true
 runs:
