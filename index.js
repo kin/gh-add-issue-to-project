@@ -8,6 +8,7 @@ const run = async () => {
     const accessToken = core.getInput("access-token");
 
     const payload = github.context.payload;
+    console.log(payload)
     const pullRequest = payload.pull_request;
     const orgName = payload.organization.login;
     const repositoryName = payload.repository.name;
